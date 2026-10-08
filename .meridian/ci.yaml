@@ -1,0 +1,4 @@
+{
+  "pack": "python",
+  "test": "meridian-python-test"
+}
